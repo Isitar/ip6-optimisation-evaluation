@@ -49,6 +49,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VRP30.cs" />
+    <Compile Include="VRP2.cs" />
+    <Compile Include="VRP.cs" />
+    <Compile Include="ATSP.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
